@@ -1,1 +1,1 @@
-select * from PERSONS1243;
+select * from PERSONS;
